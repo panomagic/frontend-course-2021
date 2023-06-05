@@ -22,7 +22,7 @@
         "regex": "^[0-9]+-(?:[\\d\\w]){3,70}",
         "regexOptions": "i",
         "separator": "",
-        "msgDoesNotMatchRegex": "Branch \"%s\" does not match the allowed pattern: \"%s\"",
+        "msgDoesNotMatchRegex": "BBranch \"%s\" does not match the allowed pattern: \"%s\"",
         "msgBranchDisallowed": "Pushing to \"%s\" is not allowed, use homework pattern.\n\nExample:\n* 1-basics\n* 2-js_dom\n\n"
     }
 }
