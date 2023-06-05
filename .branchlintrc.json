@@ -23,6 +23,6 @@
         "regexOptions": "i",
         "separator": "",
         "msgDoesNotMatchRegex": "BBranch \"%s\" does not match the allowed pattern: \"%s\"",
-        "msgBranchDisallowed": "Pushing to \"%s\" is not allowed, use homework pattern.\n\nExample:\n* 1-basics\n* 2-js_dom\n\n"
+        "msgBranchDisallowed": "PPushing to \"%s\" is not allowed, use homework pattern.\n\nExample:\n* 1-basics\n* 2-js_dom\n\n"
     }
 }
